@@ -1,0 +1,4 @@
+#hidden-par{
+    display: none;          /*this doesn't even load it, opposite block*/
+    visibility: hidden;     /*this just makes it transparent, opposite visible*/
+}
